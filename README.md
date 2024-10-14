@@ -1,2 +1,2 @@
 # MyTorch
-Deep learning framework like pytorch
+Simple deep learning framework like pytorch
